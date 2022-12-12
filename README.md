@@ -1,5 +1,6 @@
 # Spider for IMDb top 250 movies
 - This package is used to crawl the basic information of the top250 movies on IMDb, and provides data visualization of the global interface and analysis of individual movie data, and able to produce pdf reports.
+- To import this package, the user could add the `from spider_tools.Data_Visualization import Data` and the `from spider_tools.movie import Movie` on the begin of code.
 ### Import the Conda environment
 `conda env create -f environment.yaml`
 ### Introduction of folders  
